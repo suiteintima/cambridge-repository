@@ -10,6 +10,10 @@ https://cambridge-repository.netlify.app/lihui_files/theis.pdf
 
 https://github.com/cambridge-repository/lihui
 
+https://gitee.com/cambridge-repository/lihui
+
+https://github.com/suiteintima/cambridge-repositor
+
 Title : Volatility Surface Construction in European Options
 
 Author : Li, Hui
