@@ -12,7 +12,7 @@ https://github.com/cambridge-repository/lihui
 
 https://gitee.com/cambridge-repository/lihui
 
-https://github.com/suiteintima/cambridge-repositor
+https://github.com/suiteintima/cambridge-repository
 
 Title : Volatility Surface Construction in European Options
 
